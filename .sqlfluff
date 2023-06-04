@@ -7,6 +7,7 @@ max_line_length = 120
 [sqlfluff:indentation]
 indented_on_contents = False
 allow_implicit_indents = True
+tab_space_size = 2
 
 [sqlfluff:layout:type:comma]
 line_position = leading
