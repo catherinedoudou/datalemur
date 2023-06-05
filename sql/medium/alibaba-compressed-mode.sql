@@ -1,2 +1,9 @@
 -- https://datalemur.com/questions/questions/alibaba-compressed-mode
-SELECT NULL AS blank;
+SELECT item_count AS "mode"
+FROM items_per_order
+WHERE order_occurrences IN (
+    SELECT MAX(order_occurrences) AS max_order_occurrence
+    FROM items_per_order
+  )
+ORDER BY 1
+;
