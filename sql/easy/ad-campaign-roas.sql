@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/ad-campaign-roas
+-- https://datalemur.com/questions/ad-campaign-roas
 SELECT NULL AS blank;

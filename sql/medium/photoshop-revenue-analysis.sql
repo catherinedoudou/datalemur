@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/photoshop-revenue-analysis
+-- https://datalemur.com/questions/photoshop-revenue-analysis
 SELECT NULL AS blank;

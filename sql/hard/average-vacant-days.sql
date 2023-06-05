@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/average-vacant-days
+-- https://datalemur.com/questions/average-vacant-days
 SELECT NULL AS blank;

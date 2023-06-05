@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/amazon-shopping-spree
+-- https://datalemur.com/questions/amazon-shopping-spree
 SELECT NULL AS blank;

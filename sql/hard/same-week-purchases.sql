@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/same-week-purchases
+-- https://datalemur.com/questions/same-week-purchases
 SELECT NULL AS blank;

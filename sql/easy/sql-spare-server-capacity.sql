@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/sql-spare-server-capacity
+-- https://datalemur.com/questions/sql-spare-server-capacity
 SELECT NULL AS blank;

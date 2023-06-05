@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/sql-first-transaction
+-- https://datalemur.com/questions/sql-first-transaction
 SELECT NULL AS blank;

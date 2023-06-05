@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/concurrent-user-sessions
+-- https://datalemur.com/questions/concurrent-user-sessions
 SELECT NULL AS blank;

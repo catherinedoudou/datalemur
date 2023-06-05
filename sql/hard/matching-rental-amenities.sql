@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/matching-rental-amenities
+-- https://datalemur.com/questions/matching-rental-amenities
 SELECT NULL AS blank;

@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/patient-call-history
+-- https://datalemur.com/questions/patient-call-history
 SELECT NULL AS blank;

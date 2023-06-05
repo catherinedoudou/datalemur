@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/prime-warehouse-storage
+-- https://datalemur.com/questions/prime-warehouse-storage
 SELECT NULL AS blank;

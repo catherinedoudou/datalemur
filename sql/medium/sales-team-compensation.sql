@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/sales-team-compensation
+-- https://datalemur.com/questions/sales-team-compensation
 SELECT NULL AS blank;

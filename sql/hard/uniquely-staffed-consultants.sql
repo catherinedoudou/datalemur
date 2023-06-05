@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/uniquely-staffed-consultants
+-- https://datalemur.com/questions/uniquely-staffed-consultants
 SELECT NULL AS blank;

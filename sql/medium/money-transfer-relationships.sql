@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/money-transfer-relationships
+-- https://datalemur.com/questions/money-transfer-relationships
 SELECT NULL AS blank;

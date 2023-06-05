@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/spotify-streaming-history
+-- https://datalemur.com/questions/spotify-streaming-history
 SELECT NULL AS blank;

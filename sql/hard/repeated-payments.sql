@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/repeated-payments
+-- https://datalemur.com/questions/repeated-payments
 SELECT NULL AS blank;

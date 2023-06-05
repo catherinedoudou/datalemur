@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/revenue-by-product-line
+-- https://datalemur.com/questions/revenue-by-product-line
 SELECT NULL AS blank;

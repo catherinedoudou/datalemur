@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/sql-repeat-purchases
+-- https://datalemur.com/questions/sql-repeat-purchases
 SELECT NULL AS blank;

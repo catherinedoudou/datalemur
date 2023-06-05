@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/mean-median-mode
+-- https://datalemur.com/questions/mean-median-mode
 SELECT NULL AS blank;

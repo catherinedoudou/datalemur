@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/updated-status
+-- https://datalemur.com/questions/updated-status
 SELECT NULL AS blank;

@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/fill-missing-product
+-- https://datalemur.com/questions/fill-missing-product
 SELECT NULL AS blank;

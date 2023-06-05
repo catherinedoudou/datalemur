@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/frequently-purchased-pairs
+-- https://datalemur.com/questions/frequently-purchased-pairs
 SELECT NULL AS blank;

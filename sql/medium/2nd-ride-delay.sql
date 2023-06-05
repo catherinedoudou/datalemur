@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/2nd-ride-delay
+-- https://datalemur.com/questions/2nd-ride-delay
 SELECT NULL AS blank;

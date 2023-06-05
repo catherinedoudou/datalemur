@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/invalid-search-pct
+-- https://datalemur.com/questions/invalid-search-pct
 SELECT NULL AS blank;

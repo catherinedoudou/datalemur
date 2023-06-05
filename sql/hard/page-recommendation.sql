@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/page-recommendation
+-- https://datalemur.com/questions/page-recommendation
 SELECT NULL AS blank;

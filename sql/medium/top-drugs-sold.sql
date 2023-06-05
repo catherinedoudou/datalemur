@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/top-drugs-sold
+-- https://datalemur.com/questions/top-drugs-sold
 SELECT NULL AS blank;

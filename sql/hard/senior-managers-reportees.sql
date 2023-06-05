@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/senior-managers-reportees
+-- https://datalemur.com/questions/senior-managers-reportees
 SELECT NULL AS blank;

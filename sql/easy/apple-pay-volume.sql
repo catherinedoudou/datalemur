@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/apple-pay-volume
+-- https://datalemur.com/questions/apple-pay-volume
 SELECT NULL AS blank;

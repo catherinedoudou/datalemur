@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/oracle-sales-quota
+-- https://datalemur.com/questions/oracle-sales-quota
 SELECT NULL AS blank;

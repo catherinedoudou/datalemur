@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/email-table-transformation
+-- https://datalemur.com/questions/email-table-transformation
 SELECT NULL AS blank;

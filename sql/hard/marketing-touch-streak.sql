@@ -1,2 +1,2 @@
--- https://datalemur.com/questions/questions/marketing-touch-streak
+-- https://datalemur.com/questions/marketing-touch-streak
 SELECT NULL AS blank;
