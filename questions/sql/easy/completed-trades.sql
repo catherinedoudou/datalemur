@@ -1,3 +1,4 @@
+-- https://datalemur.com/questions/questions/completed-trades
 -- assumptions: user_id is FK / PK (aka NOT NULL)
 SELECT
   u.city

@@ -1,3 +1,4 @@
+-- https://datalemur.com/questions/questions/time-spent-snaps
 WITH time_spent_by_age_bucket AS (
   SELECT
     ab.age_bucket

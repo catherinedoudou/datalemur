@@ -1,3 +1,4 @@
+-- https://datalemur.com/questions/questions/tesla-unfinished-parts
 SELECT
   part
   , assembly_step

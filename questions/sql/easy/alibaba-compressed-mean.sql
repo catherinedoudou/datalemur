@@ -1,3 +1,4 @@
+-- https://datalemur.com/questions/questions/alibaba-compressed-mean
 SELECT
   ROUND(
     SUM(item_count * order_occurrences)::DECIMAL

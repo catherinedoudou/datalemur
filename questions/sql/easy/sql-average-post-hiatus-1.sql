@@ -1,3 +1,4 @@
+-- https://datalemur.com/questions/questions/sql-average-post-hiatus-1
 SELECT
   user_id
   , EXTRACT('DAY' FROM MAX(post_date) - MIN(post_date)) AS days_between

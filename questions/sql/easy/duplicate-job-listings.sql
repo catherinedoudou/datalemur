@@ -1,3 +1,4 @@
+-- https://datalemur.com/questions/questions/duplicate-job-listings
 WITH dupes AS (
   SELECT
     company_id

@@ -1,3 +1,4 @@
+-- https://datalemur.com/questions/questions/matching-skills
 SELECT candidate_id
 FROM candidates
 GROUP BY 1
