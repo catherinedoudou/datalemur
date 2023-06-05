@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/yoy-growth-rate
+-- https://datalemur.com/questions/yoy-growth-rate
 WITH spend_by_product_and_year AS (
   SELECT
     EXTRACT('YEAR' FROM transaction_date) AS "year"

@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/sql-third-transaction
+-- https://datalemur.com/questions/sql-third-transaction
 -- CTE with row_number (no QUALIFY in PostgreSQL)
 WITH transaction_rns AS (
   SELECT

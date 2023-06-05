@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/sql-histogram-tweets
+-- https://datalemur.com/questions/sql-histogram-tweets
 WITH user_tweet_cnt AS (
   SELECT
     user_id

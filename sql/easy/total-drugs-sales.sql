@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/total-drugs-sales
+-- https://datalemur.com/questions/total-drugs-sales
 SELECT
   manufacturer
   , '$' || ROUND(SUM(total_sales) / 1000000, 0) || ' million' AS sale

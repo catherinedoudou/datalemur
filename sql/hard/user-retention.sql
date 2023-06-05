@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/user-retention
+-- https://datalemur.com/questions/user-retention
 -- This answer works for the specified data, but is not a general solution.
 SELECT
   EXTRACT('MONTH' FROM event_date) + 1 AS "month"

@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/rolling-average-tweets
+-- https://datalemur.com/questions/rolling-average-tweets
 SELECT
   user_id
   , tweet_date

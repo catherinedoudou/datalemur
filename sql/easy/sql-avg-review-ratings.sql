@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/sql-avg-review-ratings
+-- https://datalemur.com/questions/sql-avg-review-ratings
 SELECT
   EXTRACT('MONTH' FROM submit_date) AS mth
   , product_id AS product

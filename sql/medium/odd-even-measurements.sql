@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/odd-even-measurements
+-- https://datalemur.com/questions/odd-even-measurements
 WITH measurements_rn AS (
   SELECT
     measurement_time::DATE AS measurement_day

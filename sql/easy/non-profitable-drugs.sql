@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/non-profitable-drugs
+-- https://datalemur.com/questions/non-profitable-drugs
 SELECT
   manufacturer
   , COUNT(*) AS drug_count

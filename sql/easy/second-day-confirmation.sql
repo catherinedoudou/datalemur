@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/second-day-confirmation
+-- https://datalemur.com/questions/second-day-confirmation
 SELECT e.user_id
 FROM emails e
 INNER JOIN texts t

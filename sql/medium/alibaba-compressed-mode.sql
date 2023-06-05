@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/alibaba-compressed-mode
+-- https://datalemur.com/questions/alibaba-compressed-mode
 SELECT item_count AS "mode"
 FROM items_per_order
 WHERE order_occurrences IN (

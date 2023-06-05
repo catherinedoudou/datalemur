@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/international-call-percentage
+-- https://datalemur.com/questions/international-call-percentage
 SELECT
   ROUND(
     100.0

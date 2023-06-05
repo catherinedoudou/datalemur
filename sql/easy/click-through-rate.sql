@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/click-through-rate
+-- https://datalemur.com/questions/click-through-rate
 SELECT
   app_id
   , ROUND(

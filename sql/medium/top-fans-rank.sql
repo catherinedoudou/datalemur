@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/top-fans-rank
+-- https://datalemur.com/questions/top-fans-rank
 WITH artist_by_top_n_daily_songs AS (
   SELECT
     a.artist_name

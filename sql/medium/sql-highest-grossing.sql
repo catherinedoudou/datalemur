@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/sql-highest-grossing
+-- https://datalemur.com/questions/sql-highest-grossing
 WITH cat_prod_by_spend_cat_rank AS (
   SELECT
     category

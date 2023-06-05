@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/histogram-users-purchases
+-- https://datalemur.com/questions/histogram-users-purchases
 WITH user_last_transaction AS (
   SELECT
     user_id

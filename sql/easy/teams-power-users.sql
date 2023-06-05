@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/teams-power-users
+-- https://datalemur.com/questions/teams-power-users
 SELECT
   sender_id
   , COUNT(*) AS messages_count

@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/signup-confirmation-rate
+-- https://datalemur.com/questions/signup-confirmation-rate
 SELECT ROUND(COUNT(t . *)::DECIMAL / COUNT(e . *), 2) AS confirm_rate
 FROM emails e
 LEFT JOIN texts t

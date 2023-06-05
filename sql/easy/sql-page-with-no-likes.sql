@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/sql-page-with-no-likes
+-- https://datalemur.com/questions/sql-page-with-no-likes
 -- not exists
 SELECT page_id
 FROM pages p

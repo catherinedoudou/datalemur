@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/card-launch-success
+-- https://datalemur.com/questions/card-launch-success
 WITH card_launch_date AS (
   SELECT
     card_name

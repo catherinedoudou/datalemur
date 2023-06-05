@@ -1,4 +1,4 @@
--- https://datalemur.com/questions/questions/supercloud-customer
+-- https://datalemur.com/questions/supercloud-customer
 SELECT cc.customer_id
 FROM customer_contracts cc
 LEFT JOIN products p
