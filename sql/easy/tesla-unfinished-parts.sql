@@ -1,2 +1,8 @@
 -- https://datalemur.com/questions/tesla-unfinished-parts
-SELECT NULL AS blank;
+-- find out the part and assembly_step for unfinished part
+SELECT
+  part
+  , assembly_step
+FROM parts_assembly
+WHERE finish_date IS NULL
+;

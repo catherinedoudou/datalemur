@@ -1,2 +1,5 @@
 -- https://datalemur.com/questions/sql-page-with-no-likes
-SELECT NULL AS blank;
+SELECT page_id FROM pages
+EXCEPT
+SELECT page_id FROM page_likes
+;

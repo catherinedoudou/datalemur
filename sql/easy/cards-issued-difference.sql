@@ -1,2 +1,8 @@
 -- https://datalemur.com/questions/cards-issued-difference
-SELECT NULL AS blank;
+SELECT
+  card_name
+  , MAX(issued_amount) - MIN(issued_amount) AS difference
+FROM monthly_cards_issued
+GROUP BY 1
+ORDER BY 2 DESC
+;
